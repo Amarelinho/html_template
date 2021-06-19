@@ -1,0 +1,9 @@
+html {
+    /* não permite que o tamanho da página fique maior que a tela e crie um scrool horizontal */
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    /* vh - ViewPort Hight */
+    min-height: 100vh;
+}
